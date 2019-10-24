@@ -1,0 +1,6 @@
+id,age,certificate_number,basic_salary,housing_allowance,bonus,sex,special_class,graduate_institution
+int,byte,long,float,short,double,char,boolean,String
+#教师工号,教师年龄,教师资格证编号,基本工资,住房补贴,奖金,性别,是否特级教师,毕业院校
+1,30,10005,10000.5,5000,20000,m,0,湖南科技学院
+2,40,10001,40000,20000,50000,m,1,清华大学
+3,34,10003,15000,8000,30000,f,0,中国科技大学
